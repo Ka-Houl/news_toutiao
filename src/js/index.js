@@ -55,7 +55,7 @@ const App = ($, win) => {
 
   const _renderHeader = () => {
   	$app.append(header.tpl({
-  		title: 'JS++新闻头条',
+  		title: '新闻头条',
   		showLeftIcon: false,
   		showRightIcon: true
   	}));

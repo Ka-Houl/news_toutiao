@@ -73,7 +73,7 @@ const config = {
       },
       filename: "index.html",
       template: path.resolve(__dirname, "src/index.html"),
-      title: "JS++新闻头条",
+      title: "新闻头条",
       chunksSortMode: "manual",
       chunks: ["index"],
       excludeChunks: ["node_modules"],
